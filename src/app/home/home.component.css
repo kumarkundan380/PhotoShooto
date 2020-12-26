@@ -1,0 +1,19 @@
+.imageColor{
+  background: #556BE7;
+  height: 1050px;
+}
+.col-md-12{
+  padding-right: 0 !important;
+  padding-left: 0 !important;
+  margin-top: 0 !important;
+}
+
+#footer{
+  margin-top: 0 !important;
+}
+
+.dropDownMenu{
+  display: block;
+  position: absolute;
+  /* width: 824px; height: 969px; */
+}
